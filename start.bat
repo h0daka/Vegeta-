@@ -1,4 +1,4 @@
 @echo off
-TITLE VegetaRobot Chan
-:: Enables virtual env mode and then starts Vegeta
-env\scripts\activate.bat && py -m VegetaRobot
+TITLE BulmaRobot
+:: Enables virtual env mode and then starts BulmaRobot
+env\scripts\activate.bat && py -m BulmaRobot
